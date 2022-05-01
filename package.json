@@ -1,0 +1,19 @@
+{
+    "name": "djs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.2.0",
+        "glob": "^7.2.0",
+        "mongoose": "^6.0.2",
+        "nodemon": "^2.0.15"
+    }
+}
